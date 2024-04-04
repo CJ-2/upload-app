@@ -15,3 +15,5 @@ To run this application, you will need Python and Flask. Follow these steps to g
 
 1. Clone this repository or download the source code.
 2. Install Flask if you haven't already. You can install it using pip:
+bash
+pip install Flask
