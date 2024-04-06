@@ -39,7 +39,3 @@ The application will start running on `http://localhost:5000`.
 ## Security
 
 This application uses `werkzeug.utils.secure_filename` to secure file names before saving them. It's important to ensure that your deployment environment is secure, as this application does not implement authentication or more advanced security features.
-
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
